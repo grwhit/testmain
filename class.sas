@@ -1,3 +1,3 @@
-data class;
+/* data class; */
 set sashelp.class;
 run;
